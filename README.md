@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✌️, I'm Viraj Pawar</h1>
 <h3 align="center">A Full Stack Web Developer based in India.</h3>
 
-- 🌱 I’m currently learning **Rust**
+
 
 - 📫 How to reach me **viraj25092004@gmail.com**
 
