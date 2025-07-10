@@ -12,6 +12,7 @@ Hi there, I'm Viraj, a Full Stack Web developer based in India.
 ###
 
 <div align="left">
+  
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
@@ -28,6 +29,8 @@ Hi there, I'm Viraj, a Full Stack Web developer based in India.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  
 </div>
 
 ###
